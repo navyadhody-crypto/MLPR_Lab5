@@ -43,6 +43,8 @@ This lab demonstrates how distance-based learning methods like KMeans can classi
 ![faces](images/faces.jpeg)
 ![KMeans Clustering](images/KMeans_clustering.jpeg)
 ![Cluster Prediction](images/Cluster_prediction.png)
+![Final Clustering](images/Final_clustering.jpeg)
+
 
 
 
