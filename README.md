@@ -39,10 +39,10 @@ Conclusion
 This lab demonstrates how distance-based learning methods like KMeans can classify images using extracted features.
 
 
-![face detection](images/face_detection.png)
 ![faces](images/faces.jpeg)
 ![KMeans Clustering](images/KMeans_clustering.jpeg)
 ![Cluster Prediction](images/Cluster_prediction.png)
+![face detection](images/face_detection.png)
 ![Final Clustering](images/Final_clustering.jpeg)
 
 
