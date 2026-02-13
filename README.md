@@ -1,35 +1,38 @@
 # MLPR_Lab5
 Lab 5 – Face Detection &amp; KMeans Clustering
+
 Aim
+
 To detect faces using Haar Cascade and classify them using KMeans clustering based on HSV features.
 
 Methodology
 
-Face detection using OpenCV
+1..Face detection using OpenCV
 
-Feature extraction (Hue & Saturation)
+2.Feature extraction (Hue & Saturation)
 
 KMeans clustering (k=2)
 
-Template image classification
+3.Template image classification
 
-Visualization of clusters
+4.Visualization of clusters
 
+Haar Cascade is used to detect facial regions from images. The detected faces are converted into HSV color space to extract meaningful color features. These features are then clustered using KMeans, which groups similar data points based on distance from centroids.
 Results
 
-Faces successfully detected
+1.Faces successfully detected
 
-Clusters formed using color features
+2.Clusters formed using color features
 
-Template image classified into appropriate cluster
+3.Template image classified into appropriate cluster
 
 Key Findings
 
-HSV features help separate faces
+1.HSV features help separate faces
 
-KMeans effectively clusters based on similarity
+2.KMeans effectively clusters based on similarity
 
-Template classification works using centroid distance
+3.Template classification works using centroid distance
 
 Conclusion
 
