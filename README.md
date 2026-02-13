@@ -1,7 +1,6 @@
 # MLPR_Lab5
 Lab 5 – Face Detection &amp; KMeans Clustering
 Aim
-
 To detect faces using Haar Cascade and classify them using KMeans clustering based on HSV features.
 
 Methodology
